@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: k8s-demo
-        image: vijaykumarcm/k8s-demo:v1
+        image: vijaykumarcm/k8s-demo:v2
         ports:
         - containerPort: 80
 
